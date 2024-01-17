@@ -2,6 +2,12 @@
 /*
 Plugin Name: Real Estate Plugin
 Description: Разработка плагина для тестового задания
+
+
+ADMIN CRED
+wp_chervyakov
+py7ZZjYTX_By3?!
+
 Вывод шорткода -> do_shortcode('[real_estate_filter]');
 
 на синг пейджах уже реализован вывод через шорткод
