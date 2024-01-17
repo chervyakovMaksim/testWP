@@ -1,0 +1,6 @@
+/fonts/*
+.DS_Store
+debug.log
+/plugins/*
+!/plugins/real_estate/
+/plugins/real_estate/node_modules/*
